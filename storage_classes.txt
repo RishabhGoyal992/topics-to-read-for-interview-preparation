@@ -1,0 +1,11 @@
+storage classes - 
+
+https://www.geeksforgeeks.org/storage-classes-in-c/#_=_
+
+static variables -
+
+https://www.geeksforgeeks.org/static-variables-in-c/
+
+
+
+
