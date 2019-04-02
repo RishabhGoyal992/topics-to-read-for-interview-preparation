@@ -9,3 +9,8 @@ https://www.geeksforgeeks.org/access-modifiers-in-c/
 
 
 https://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm
+
+
+
+
+https://www.programiz.com/cpp-programming/public-protected-private-inheritance
